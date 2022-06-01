@@ -1,0 +1,20 @@
+{
+  "name": "readme-generator-inquirer",
+  "version": "1.0.0",
+  "description": "Some description here",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/readme-generator-inquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/readme-generator-inquirer/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/readme-generator-inquirer#readme"
+}
