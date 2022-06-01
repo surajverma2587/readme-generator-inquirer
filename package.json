@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/surajverma2587/readme-generator-inquirer/issues"
   },
-  "homepage": "https://github.com/surajverma2587/readme-generator-inquirer#readme"
+  "homepage": "https://github.com/surajverma2587/readme-generator-inquirer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
